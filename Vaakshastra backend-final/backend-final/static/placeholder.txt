@@ -1,0 +1,2 @@
+Copy your "index (1).html" file here and rename it to "index.html"
+Then access your website at: http://localhost:8000/site
